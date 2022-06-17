@@ -2,6 +2,9 @@
 
 This project achieves the goal of computing angles made by two adjacent links in space having sphercal joints(3dof).
 
+![Screenshot 2022-06-18 034253](https://user-images.githubusercontent.com/41478793/174407438-bfe7c2f7-a2c3-4d2f-8a27-902d3d11274d.png)
+
+
 Requirements:
 1. MATLAB R2017 or above
 
