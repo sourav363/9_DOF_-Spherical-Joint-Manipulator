@@ -1,2 +1,13 @@
 # 9_DOF-Manipulator(Spherical Joints)
-  This project achieves the goal of computing the angles made by two adjacent links in space having sphercal joints(3dof)
+    This project achieves the goal of computing angles made by two adjacent links in space having sphercal joints(3dof).
+
+Requirements:
+1. MATLAB R2017 or above
+Instructions:
+1. Open SphericalJointManipulator.mlappinstall
+2. install.
+3. Open using the app manager
+4. Enter Link lengths
+5. Enter Joint angles
+6. Get the plot, coordinates and angles at joint 
+  
