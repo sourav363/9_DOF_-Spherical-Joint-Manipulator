@@ -15,6 +15,14 @@ Instructions:
 4. Enter Link lengths
 5. Enter Joint angles
 6. Get the plot, coordinates and angles at joint 
-  
-Original code file has been included to understand and modify according to need.
+
+Demonstration:
+
+
+https://user-images.githubusercontent.com/41478793/185265263-b0f1ddec-2bdf-436e-80ea-29908feaf39a.mp4
+
+
+
+
+Original source file is included to better understand and modify according to the need.
 Thanks!
